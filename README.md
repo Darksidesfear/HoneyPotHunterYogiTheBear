@@ -1,5 +1,6 @@
 # HoneyPotHunterYogiTheBear
 Swap Trapped Tokens In HoneyPot Contracts
+Solve "swapAndLiquifyEnabled" function
 
 Medhod A: 0.4 BNB per Contract
 Medhod B: No payment for us. Method sacrifies half of yout trapped tokens.
